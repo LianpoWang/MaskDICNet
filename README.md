@@ -2,9 +2,6 @@
 
 PyTorch implementation of MaskDICNet.
 
----
-
-
 
 # About dataset
 
